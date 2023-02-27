@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "228664649597",
+    "project_id": "buttomy-35dc1",
+    "storage_bucket": "buttomy-35dc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228664649597:android:41842c6aa8b1fe5da68e14",
+        "android_client_info": {
+          "package_name": "com.example.buttomy_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228664649597-gvibaq4eeo5o6rhcr3v9t55me9i88cp1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.buttomy_application",
+            "certificate_hash": "355b31c0ef0a91baf582e962ce4945b18f4d3354"
+          }
+        },
+        {
+          "client_id": "228664649597-0hn0sf232dvkv7rh4fknikbc6k9evtot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu0JIpnFQrCNZnQq36Sr2zSmJr_uxhX7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228664649597-0hn0sf232dvkv7rh4fknikbc6k9evtot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
